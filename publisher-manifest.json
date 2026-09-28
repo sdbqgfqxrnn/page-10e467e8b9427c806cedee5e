@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5986052b224f8b7bbe2aa57c",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-10e467e8b9427c806cedee5e",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "10e467e8b9427c806cedee5e",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6735627b1094a1d4e853ae4d27041867336c6b4516726c60bfbffd6e6447e61c",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供优质VPN加速服务，多种客户端选择，基础版月付仅¥15/月。安全稳定，支持流媒体解锁，官网下载。",
+          "AI_DESCRIPTION": "大哥云提供优质VPN加速服务，多种客户端选择，基础版月付仅¥15/月。安全稳定，支持流媒体解锁，官网下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b6b;\n            --warm-white: #fafafa;\n            --dark: #333;\n        }\n        * {\n            box-sizing: border-box;\n            margin: 0;\n            padding: 0;\n        }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            line-height: 1.7;\n            color: var(--dark);\n            background: var(--warm-white);\n            max-width: 100%;\n            overflow-x: hidden;\n        }\n        header {\n            background: white;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n        }\n        .nav-container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 1.5rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--coral);\n            text-decoration: none;\n        }\n        nav a {\n            color: var(--dark);\n            text-decoration: none;\n            margin-left: 2rem;\n            font-weight: 500;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1.5rem;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--coral);\n            margin-bottom: 1.5rem;\n            text-align: center;\n        }\n        .intro {\n            font-size: 1.1rem;\n            max-width: 800px;\n            margin: 0 auto 3rem;\n            text-align: center;\n            color: #555;\n        }\n        h2 {\n            font-size: 1.8rem;\n            margin: 2.5rem 0 1rem;\n            color: var(--coral);\n            border-left: 5px solid var(--coral);\n            padding-left: 1rem;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 1.5rem;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .step {\n            background: white;\n            border-radius: 12px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n            position: relative;\n        }\n        .step-number {\n            position: absolute;\n            left: -15px;\n            top: 20px;\n            background: var(--coral);\n            color: white;\n            width: 40px;\n            height: 40px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 50%;\n            font-weight: bold;\n            font-size: 1.2rem;\n        }\n        .plans-section {\n            margin: 3rem 0;\n        }\n        .clients-section {\n            margin: 3rem 0;\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: white;\n            border-radius: 10px;\n            margin-bottom: 1rem;\n            overflow: hidden;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 1.2rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        details[open] summary {\n            border-bottom: 1px solid #eee;\n        }\n        .faq answer {\n            padding: 0 1.2rem 1.5rem;\n            color: #555;\n        }\n        footer {\n            background: #f0f0f0;\n            padding: 2rem;\n            text-align: center;\n            color: #777;\n            font-size: 0.9rem;\n        }\n    </style>\n\n\n    <header>\n        <div class=\"nav-container\">\n            <a href=\"#\" class=\"logo\">大哥云</a>\n            <nav>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#clients\">客户端</a>\n                <a href=\"#faq\">FAQ</a>\n            </nav>\n        </div>\n    </header>\n    <main>\n        <h1>大哥云</h1>\n        <p class=\"intro\">稳定高速VPN加速器，提供多种套餐选择与客户端下载。支持3-20台设备同时在线，解锁流媒体，IPLC专线优化。</p>\n        <h2>客户端选择与使用指南</h2>\n        <div class=\"steps\">\n            <div class=\"step\">\n                <div class=\"step-number\">1</div>\n                <h3>访问官网</h3>\n                <p>进入大哥云官网，选择适合您的套餐。</p>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">2</div>\n                <h3>下载客户端</h3>\n                <p>根据套餐下载对应客户端程序。</p>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">3</div>\n                <h3>安装配置</h3>\n                <p>安装后配置账号，连接高速节点。</p>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">4</div>\n                <h3>享受加速</h3>\n                <p>支持多设备同时在线，畅享网络世界。</p>\n            </div>\n        </div>\n        <div class=\"plans-section\">\n            {{PLANS_HTML}}\n        </div>\n        <div class=\"clients-section\">\n            {{CLIENTS_HTML}}\n        </div>\n        <h2>使用说明</h2>\n        <ol>\n            <li>\n                <span>1</span>\n                选择适合您的套餐：基础版、旗舰版或团队版。\n            </li>\n            <li>\n                <span>2</span>\n                下载对应客户端：根据套餐选择下载。\n            </li>\n            <li>\n                <span>3</span>\n                安装并登录账号。\n            </li>\n            <li>\n                <span>4</span>\n                连接节点，享受加速服务。\n            </li>\n        </ol>\n        <div class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>大哥云支持哪些设备？</summary>\n                基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备。\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                在官网选择套餐后，点击下载对应的客户端程序，安装后即可使用。\n            </details>\n            <details>\n                <summary>大哥云支持哪些流媒体平台？</summary>\n                支持Netflix、YouTube、Disney+ 等主流流媒体解锁。\n            </details>\n            <details>\n                <summary>有什么加速优化？</summary>\n                提供普通线路节点池，旗舰版有IPLC专线游戏加速优化。\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                提供7x24优先工单支持，团队版有专属客户经理服务。\n            </details>\n        </div>\n    </main>\n    <footer>\n        <p>© 2024 大哥云. 所有权利保留. 官网：#</p>\n    </footer>\n\n",
+          "hash": "2e5b5c1eb95b0553b90616a0f4de0cdea1e349897ae5208cde5101233747a24f",
+          "seo": {
+            "title": "大哥云VPN - 高速稳定加速器 | 客户端下载",
+            "keywords": "大哥云, 大哥云VPN, VPN加速器, 客户端下载, 机场订阅, VPN节点",
+            "description": "大哥云提供优质VPN加速服务，多种客户端选择，基础版月付仅¥15/月。安全稳定，支持流媒体解锁，官网下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qwertyuiop130.cn",
+    "host": "m.qwertyuiop130.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "qwertyuiop130.cn",
+      "url": "https://qwertyuiop130.cn/",
+      "label": "STC",
+      "apex": "qwertyuiop130.cn",
+      "kind": null,
+      "identity": "geubjhv/page-fb7676b94797e5b3a5989d5d"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "52b9d96ed75d6ae0091958245d0645dd414b406ca2852fff6e7d5b5ef68e18d9",
+    "sitemap.xml": "3d329af85e0e9118dba3641c48e08774c484cdc0cb54a95ad037d06f2ac7c46f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "997ebd4a9185ab61638fac29d11a80922c2b10ab683c41be588a64801e948dba",
+    "robots.txt": "9d85fcf7e10f7aa2a3c8264f2800fce5aac6a50005d97891ce74c85c1ae72769",
+    "ce277e589d2577c79f0d57752dd4fc7b.txt": "06345599705ac37ffef729dd41d6834628dfdd0ca015c10c6c989425514054cb"
+  },
+  "revision": "6787e7b9f1e7c725f71e16dcff614e4496a3cf3f70d93e7a5b48bfc0f9e5f4ec"
+}
